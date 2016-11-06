@@ -1,0 +1,24 @@
+{
+    "name": "CpanelInc/xmlapi-php",
+    "description": "A PHP Class for Interacting with cPanel's XML-API",
+    "tags": ["cpanel", "php", "xml"],
+    "license": "MIT",
+    "homepage": "https://github.com/CpanelInc/xmlapi-php",
+    "authors": [
+      {
+        "name"    : "David Neimeyer"
+      },
+      {
+        "name"    : "Harry Bailey"
+      }
+    ],
+    "require": {
+       "php": ">=5.0.0"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+    },
+    "extra": {
+    }
+}
