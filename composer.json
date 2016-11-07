@@ -21,11 +21,8 @@
     "autoload": {
         "files": [
             "xmlapi.php"
-        ],
-        "psr-4": {
-            "phpseclib\\": "phpseclib/"
-        }
-    }
+        ]
+    },
     "extra": {
     }
 }
